@@ -36,12 +36,3 @@ Happy Car is a looping car animation with a Rotational Camera Moving really fast
 </p>
 </details>
 
-
-<details>
-  <summary>Demo Video</summary>
-<p>
-
-![](Happy_Car/Videos/Happy_Car_Demo.m4v) 
-
-</p>
-</details>
